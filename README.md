@@ -1,2 +1,2 @@
-# jogo-de-nava
+# jogo-de-nave
 Primeiro jogo utilizando o js
